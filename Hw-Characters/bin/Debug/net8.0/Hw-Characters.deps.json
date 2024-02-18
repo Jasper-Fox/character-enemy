@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Hw-Characters/1.0.0": {
+        "runtime": {
+          "Hw-Characters.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Hw-Characters/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
