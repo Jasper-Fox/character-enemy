@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\C#\\Classes\\Classes\\Inheritance.csproj",
+      "projectUniqueName": "D:\\C#\\Classes\\Classes_Characters\\Classes\\Inheritance.csproj",
       "projectName": "Inheritance",
-      "projectPath": "D:\\C#\\Classes\\Classes\\Inheritance.csproj",
+      "projectPath": "D:\\C#\\Classes\\Classes_Characters\\Classes\\Inheritance.csproj",
       "packagesPath": "C:\\Users\\Max\\.nuget\\packages\\",
-      "outputPath": "D:\\C#\\Classes\\Classes\\obj\\",
+      "outputPath": "D:\\C#\\Classes\\Classes_Characters\\Classes\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Max\\AppData\\Roaming\\NuGet\\NuGet.Config",

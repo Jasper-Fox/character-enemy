@@ -48,7 +48,7 @@
 
 
             ///////////////////////////////////////////////////////////////////////////////////
-            Character fox = new MediumCharacter()                                           //Описываем медиумперсанажа
+            Character fox = new MediumCharacter()                                              //Описываем медиумперсанажа
             {
                 _name = "Fox",
                 HP = 13451,
@@ -65,7 +65,7 @@
             Console.WriteLine();
 
             ///////////////////////////////////////////////////////////////////////////////////
-            Console.WriteLine("Ability: " + fox.Ability);                                //проверяем наличее способности
+            Console.WriteLine("Ability: " + fox.Ability);                                      //проверяем наличее способности
             Console.WriteLine("AbilityTipe: " + fox.AbilityTipe);
             ///////////////////////////////////////////////////////////////////////////////////
 
@@ -75,7 +75,7 @@
 
 
             ///////////////////////////////////////////////////////////////////////////////////
-            HightCharacter bigfox = new HightCharacter()                                           //Описываем хайперсанажа
+            HightCharacter bigfox = new HightCharacter()                                            //Описываем хайперсанажа
             {
                 _name = "Big Fox",
                 HP = 13451,
@@ -93,9 +93,25 @@
             Console.WriteLine();
 
             ///////////////////////////////////////////////////////////////////////////////////
-            Console.WriteLine("Ability: " + bigfox.Ability);                                //проверяем наличее способности
+            Console.WriteLine("Ability: " + bigfox.Ability);                                   //проверяем наличее способности
             Console.WriteLine("AbilityTipe: " + bigfox.AbilityTipe);
             Console.WriteLine("SecondAbility: " + bigfox.SecondAbility);
+            ///////////////////////////////////////////////////////////////////////////////////
+
+
+            Console.WriteLine("______________________________________________________________");
+            Console.WriteLine();
+            Console.WriteLine("Enemy");
+            Console.WriteLine("______________________________________________________________");
+            Console.WriteLine();
+
+
+            ///////////////////////////////////////////////////////////////////////////////////
+            Enemy cat = new HightEnemy("Cat", "Cats", -400, -200);                              //Противник
+            Console.WriteLine(cat.name);
+            Console.WriteLine(cat.kind);
+            Console.WriteLine(cat.hp);
+            Console.WriteLine(cat.damage);
         }
 
     }

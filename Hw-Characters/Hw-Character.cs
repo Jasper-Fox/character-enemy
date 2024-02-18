@@ -136,7 +136,7 @@ namespace Hw_Characters
             Console.Write("MediumCharacter: ");
         }
         public override string AbilityTipe             //упрощаем метод
-        { get { return _abilityTipe; } set { _abilityTipe = value; } }
+        { get => _abilityTipe; set => _abilityTipe = value; }
     }
     public class HightCharacter : Character            //тоже
     {
@@ -150,8 +150,8 @@ namespace Hw_Characters
             Console.WriteLine("HightCharacter: ");
         }
         public override string AbilityTipe             //тоже самое
-        { get { return _abilityTipe; } set { _abilityTipe = value; } }
+        { get => _abilityTipe; set => _abilityTipe = value; }
         public string SecondAbility 
-        {  get { return _secondAbility; } set { _secondAbility = value; } }            
+        {  get => _secondAbility; set => _secondAbility = value; }
     } 
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C#\\Classes\\Hw-Characters\\Hw-Characters.csproj": {}
+    "D:\\C#\\Classes\\Classes_Characters\\Hw-Characters\\Hw-Characters.csproj": {}
   },
   "projects": {
-    "D:\\C#\\Classes\\Hw-Characters\\Hw-Characters.csproj": {
+    "D:\\C#\\Classes\\Classes_Characters\\Hw-Characters\\Hw-Characters.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#\\Classes\\Hw-Characters\\Hw-Characters.csproj",
+        "projectUniqueName": "D:\\C#\\Classes\\Classes_Characters\\Hw-Characters\\Hw-Characters.csproj",
         "projectName": "Hw-Characters",
-        "projectPath": "D:\\C#\\Classes\\Hw-Characters\\Hw-Characters.csproj",
+        "projectPath": "D:\\C#\\Classes\\Classes_Characters\\Hw-Characters\\Hw-Characters.csproj",
         "packagesPath": "C:\\Users\\Max\\.nuget\\packages\\",
-        "outputPath": "D:\\C#\\Classes\\Hw-Characters\\obj\\",
+        "outputPath": "D:\\C#\\Classes\\Classes_Characters\\Hw-Characters\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Max\\AppData\\Roaming\\NuGet\\NuGet.Config",

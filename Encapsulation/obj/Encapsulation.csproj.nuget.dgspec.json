@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C#\\Classes\\Encapsulation\\Encapsulation.csproj": {}
+    "D:\\C#\\Classes\\Classes_Characters\\Encapsulation\\Encapsulation.csproj": {}
   },
   "projects": {
-    "D:\\C#\\Classes\\Encapsulation\\Encapsulation.csproj": {
+    "D:\\C#\\Classes\\Classes_Characters\\Encapsulation\\Encapsulation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#\\Classes\\Encapsulation\\Encapsulation.csproj",
+        "projectUniqueName": "D:\\C#\\Classes\\Classes_Characters\\Encapsulation\\Encapsulation.csproj",
         "projectName": "Encapsulation",
-        "projectPath": "D:\\C#\\Classes\\Encapsulation\\Encapsulation.csproj",
+        "projectPath": "D:\\C#\\Classes\\Classes_Characters\\Encapsulation\\Encapsulation.csproj",
         "packagesPath": "C:\\Users\\Max\\.nuget\\packages\\",
-        "outputPath": "D:\\C#\\Classes\\Encapsulation\\obj\\",
+        "outputPath": "D:\\C#\\Classes\\Classes_Characters\\Encapsulation\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Max\\AppData\\Roaming\\NuGet\\NuGet.Config",

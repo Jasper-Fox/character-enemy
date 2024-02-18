@@ -1,26 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\C#\\Classes\\",
+  "WorkspaceRootPath": "D:\\C#\\Classes\\Classes_Characters\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4A42404B-4AA7-4234-8A2E-4CF49B7408DE}|Hw-Characters\\Hw-Characters.csproj|d:\\c#\\classes\\hw-characters\\hw-characters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A42404B-4AA7-4234-8A2E-4CF49B7408DE}|Hw-Characters\\Hw-Characters.csproj|solutionrelative:hw-characters\\hw-characters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4A42404B-4AA7-4234-8A2E-4CF49B7408DE}|Hw-Characters\\Hw-Characters.csproj|d:\\c#\\classes\\classes_characters\\hw-characters\\hw-enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A42404B-4AA7-4234-8A2E-4CF49B7408DE}|Hw-Characters\\Hw-Characters.csproj|solutionrelative:hw-characters\\hw-enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A42404B-4AA7-4234-8A2E-4CF49B7408DE}|Hw-Characters\\Hw-Characters.csproj|d:\\c#\\classes\\hw-characters\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A42404B-4AA7-4234-8A2E-4CF49B7408DE}|Hw-Characters\\Hw-Characters.csproj|solutionrelative:hw-characters\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4A42404B-4AA7-4234-8A2E-4CF49B7408DE}|Hw-Characters\\Hw-Characters.csproj|d:\\c#\\classes\\classes_characters\\hw-characters\\hw-character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A42404B-4AA7-4234-8A2E-4CF49B7408DE}|Hw-Characters\\Hw-Characters.csproj|solutionrelative:hw-characters\\hw-character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FC64EE48-963B-477D-8F40-F026A544ACF3}|Classes\\Inheritance.csproj|d:\\c#\\classes\\classes\\inheritance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FC64EE48-963B-477D-8F40-F026A544ACF3}|Classes\\Inheritance.csproj|d:\\c#\\classes\\classes_characters\\classes\\inheritance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FC64EE48-963B-477D-8F40-F026A544ACF3}|Classes\\Inheritance.csproj|solutionrelative:classes\\inheritance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{431D2A5F-9549-4974-A978-E174EA1796A9}|Encapsulation\\Encapsulation.csproj|d:\\c#\\classes\\encapsulation\\encapsulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{431D2A5F-9549-4974-A978-E174EA1796A9}|Encapsulation\\Encapsulation.csproj|d:\\c#\\classes\\classes_characters\\encapsulation\\encapsulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{431D2A5F-9549-4974-A978-E174EA1796A9}|Encapsulation\\Encapsulation.csproj|solutionrelative:encapsulation\\encapsulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A42404B-4AA7-4234-8A2E-4CF49B7408DE}|Hw-Characters\\Hw-Characters.csproj|d:\\c#\\classes\\hw-characters\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A42404B-4AA7-4234-8A2E-4CF49B7408DE}|Hw-Characters\\Hw-Characters.csproj|solutionrelative:hw-characters\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4A42404B-4AA7-4234-8A2E-4CF49B7408DE}|Hw-Characters\\Hw-Characters.csproj|d:\\c#\\classes\\classes_characters\\hw-characters\\hw-characters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A42404B-4AA7-4234-8A2E-4CF49B7408DE}|Hw-Characters\\Hw-Characters.csproj|solutionrelative:hw-characters\\hw-characters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,17 +30,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Enemy.cs",
-              "DocumentMoniker": "D:\\C#\\Classes\\Hw-Characters\\Enemy.cs",
-              "RelativeDocumentMoniker": "Hw-Characters\\Enemy.cs",
-              "ToolTip": "D:\\C#\\Classes\\Hw-Characters\\Enemy.cs",
-              "RelativeToolTip": "Hw-Characters\\Enemy.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 0,
+              "Title": "Hw-Enemy.cs",
+              "DocumentMoniker": "D:\\C#\\Classes\\Classes_Characters\\Hw-Characters\\Hw-Enemy.cs",
+              "RelativeDocumentMoniker": "Hw-Characters\\Hw-Enemy.cs",
+              "ToolTip": "D:\\C#\\Classes\\Classes_Characters\\Hw-Characters\\Hw-Enemy.cs",
+              "RelativeToolTip": "Hw-Characters\\Hw-Enemy.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-17T13:03:50.616Z",
               "EditorCaption": ""
@@ -48,25 +48,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Character.cs",
-              "DocumentMoniker": "D:\\C#\\Classes\\Hw-Characters\\Character.cs",
-              "RelativeDocumentMoniker": "Hw-Characters\\Character.cs",
-              "ToolTip": "D:\\C#\\Classes\\Hw-Characters\\Character.cs",
-              "RelativeToolTip": "Hw-Characters\\Character.cs",
-              "ViewState": "AQIAAH4AAAAAAAAAAADwv5UAAAAyAAAA",
+              "Title": "Hw-Character.cs",
+              "DocumentMoniker": "D:\\C#\\Classes\\Classes_Characters\\Hw-Characters\\Hw-Character.cs",
+              "RelativeDocumentMoniker": "Hw-Characters\\Hw-Character.cs",
+              "ToolTip": "D:\\C#\\Classes\\Classes_Characters\\Hw-Characters\\Hw-Character.cs",
+              "RelativeToolTip": "Hw-Characters\\Hw-Character.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIwAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-17T13:03:33.924Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Hw-Characters.cs",
-              "DocumentMoniker": "D:\\C#\\Classes\\Hw-Characters\\Hw-Characters.cs",
+              "DocumentMoniker": "D:\\C#\\Classes\\Classes_Characters\\Hw-Characters\\Hw-Characters.cs",
               "RelativeDocumentMoniker": "Hw-Characters\\Hw-Characters.cs",
-              "ToolTip": "D:\\C#\\Classes\\Hw-Characters\\Hw-Characters.cs",
+              "ToolTip": "D:\\C#\\Classes\\Classes_Characters\\Hw-Characters\\Hw-Characters.cs",
               "RelativeToolTip": "Hw-Characters\\Hw-Characters.cs",
-              "ViewState": "AQIAACAAAAAAAAAAAAAAAC4AAAAgAAAA",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAgwFQAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-17T10:27:32.269Z",
               "EditorCaption": ""
@@ -75,11 +75,11 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Encapsulation.cs",
-              "DocumentMoniker": "D:\\C#\\Classes\\Encapsulation\\Encapsulation.cs",
+              "DocumentMoniker": "D:\\C#\\Classes\\Classes_Characters\\Encapsulation\\Encapsulation.cs",
               "RelativeDocumentMoniker": "Encapsulation\\Encapsulation.cs",
-              "ToolTip": "D:\\C#\\Classes\\Encapsulation\\Encapsulation.cs",
+              "ToolTip": "D:\\C#\\Classes\\Classes_Characters\\Encapsulation\\Encapsulation.cs",
               "RelativeToolTip": "Encapsulation\\Encapsulation.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAUAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-16T21:44:17.174Z",
               "EditorCaption": ""
@@ -88,11 +88,11 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Inheritance.cs",
-              "DocumentMoniker": "D:\\C#\\Classes\\Classes\\Inheritance.cs",
+              "DocumentMoniker": "D:\\C#\\Classes\\Classes_Characters\\Classes\\Inheritance.cs",
               "RelativeDocumentMoniker": "Classes\\Inheritance.cs",
-              "ToolTip": "D:\\C#\\Classes\\Classes\\Inheritance.cs",
+              "ToolTip": "D:\\C#\\Classes\\Classes_Characters\\Classes\\Inheritance.cs",
               "RelativeToolTip": "Classes\\Inheritance.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEMAAAAkAAAA",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwEMAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-16T14:51:33.448Z",
               "EditorCaption": ""
